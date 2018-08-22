@@ -6,8 +6,6 @@ Social engineering? Not really
 
 ![enter image description here](https://preview.ibb.co/b4CrAz/153490985371618984.jpg)
 
-https://www.youtube.com/watch?v=AmDzPgR5ZfU
-
 1.  X-Frame-Options (allows to iframe next url) .
 
 2. https://mail.google.com/mail/u/0/?ui=&ik=64411c67&jsver=UpvwBf_7018.ru.&view=om&th=15fa48c10f45e439
