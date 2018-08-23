@@ -27,3 +27,12 @@ https://accounts.google.com/signin/v2/sl/pwd?service=wise&passive=1209600&contin
 **Youtube video**:
 https://www.youtube.com/watch?v=AmDzPgR5ZfU
 
+**Additions**:
+
+Alternative, redirect with more trust
+
+https://myaccount.google.com/security-checkup?continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1zTt-nSYom-9sIEFeKW1QMHfdMDx6PwYzbKpkmKmmf2k%2Fedit%3Fusp%3Dsharing#https://gmail.com&ltmpl=forms&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+OR make it look even more dangerous.
+
+https://accounts.google.com/signin/v2/sl/pwd?service=wise&passive=1209600&continue=https://myaccount.google.com/security-checkup?continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1zTt-nSYom-9sIEFeKW1QMHfdMDx6PwYzbKpkmKmmf2k%2Fedit%3Fusp%3Dsharing#https://gmail.com&ltmpl=forms&flowName=GlifWebSignIn&flowEntry=ServiceLogin
