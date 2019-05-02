@@ -36,3 +36,17 @@ https://myaccount.google.com/security-checkup?continue=https%3A%2F%2Fdocs.google
 OR make it look even more dangerous.
 
 https://accounts.google.com/signin/v2/sl/pwd?service=wise&passive=1209600&continue=https://myaccount.google.com/security-checkup?continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1zTt-nSYom-9sIEFeKW1QMHfdMDx6PwYzbKpkmKmmf2k%2Fedit%3Fusp%3Dsharing#https://gmail.com&ltmpl=forms&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+
+UPDATE:
+
+https://accounts.google.com/signin/v2/sl/pwd?service=wise&passive=1209600&continue=https://myaccount.google.com/security-checkup?continue=https://docs.google.com/forms/d/e/1FAIpQLSeScP-SSRCuHdJcXJ_ajX9opBbbQQVxdlDzZNf2PTlPK0Yr_Q/viewform#https://gmail.com&ltmpl=forms&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+02.05.2019
+Mr.Google says:
+
+https://docs.google.com/forms/u/0/d/e/1FAIpQLSeScP-SSRCuHdJcXJ_ajX9opBbbQQVxdlDzZNf2PTlPK0Yr_Q/viewform?pli=1#?gmail.com&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F1zTt-nSYom-9sIEFeKW1QMHfdMDx6PwYzbKpkmKmmf2k%2Fedit%3Fusp%3Dsharing#https://gmail.com&ltmpl=forms&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+We're sorry. You can't access this item because it is in violation of our Terms of Service.
+
+Sure he will,but WHAT about support answer, LOL. Failed
